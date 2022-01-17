@@ -18,6 +18,4 @@ This was a frontend project where I was responsible for creating a responsive we
 
 ![Screen Shot 2022-01-17 at 4 26 07 PM 1](https://user-images.githubusercontent.com/78430591/149838661-30a39571-b995-49d9-9b3d-85caa3f48659.png)
 
-# StackBlitz link
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-l887az)
