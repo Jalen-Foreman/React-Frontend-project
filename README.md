@@ -9,7 +9,7 @@ This was a frontend project where I was responsible for creating a responsive we
 
 ## Ipad Mini
 
-<img width="424" alt="Screen Shot 2021-12-08 at 12 28 00 PM" src="https://user-images.githubusercontent.com/78430591/149838578-7934e776-0885-4750-a541-6d52124b8c9b.png">
+![Screen Shot 2022-01-17 at 4 25 14 PM](https://user-images.githubusercontent.com/78430591/149838788-7e67a31d-6392-46b7-b721-9566c97d9941.png)
 
 ## Macbook Pro
 
